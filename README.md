@@ -1,9 +1,11 @@
 # Murshid-An-Intelligent-Chatbot-for-Academic-Advising-and-Mental-Health-Support-
-Many students face academic difficulties and psychological stress throughout their education. For example, students may lack knowledge of university regulations or a safe space to express their feelings or seek guidance when facing academic problems. To address this issue, the project proposes developing an intelligent application  in Arabic, 
-powered by artificial intelligence capabilities, that provides comprehensive academic and 
-psychological support. 
+Murshid is an innovative, Arabic-language smart mobile application designed to provide university students with instant, integrated academic advising and primary psychological support within a secure, interactive digital environment that strictly respects user privacy. The application aims to address challenges arising from increasing student populations, limited immediate access to academic advisors, and delays in students obtaining accurate academic information when needed.
 
-#  Murshid: AI-Powered Academic Chatbot 
+The application features an intelligent chatbot that delivers instant support, utilizing a Retrieval-Augmented Generation (RAG) framework to comprehend complex academic and psychological student inquiries and provide accurate, reliable, and context-aware responses. The academic component relies on an independent, university-specific knowledge base that centralizes official regulations, manuals, and guidelines in a single source. This database can be updated by authorized personnel, ensuring that the latest academic information is directly accessible to students from its official sources through a smart, automated interface. On the psychological side, the application derives its information and guidance from trusted sources aligned with Islamic values and Arabic culture, ensuring the delivery of culturally appropriate primary psychological support. It helps students manage anxiety, fear, academic stress, sadness, insomnia, and other psychological challenges through supportive, practical methods, while emphasizing that the application is not a substitute for licensed professionals.
+
+From a technical perspective, this work aims to generate accurate, reliable, and context-aware responses directly tied to the student's prompt. It achieves this by employing a Retrieval-Augmented Generation (RAG) framework to dynamicially link the Large Language Model (LLM) to independent, specialized knowledge bases, retrieving the most relevant information before synthesizing the answer. This approach effectively mitigates hallucinations (inaccurate responses), facilitates seamless updates to the knowledge sources, and ensures strict compliance with approved regulations and validated information.
+
+#  Murshid 
 > **Note:** The source code of this project is kept in a Private Repository for intellectual property protection. .
 
 ## 🌟 Project Overview
